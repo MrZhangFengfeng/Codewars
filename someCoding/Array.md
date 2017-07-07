@@ -1,10 +1,10 @@
 数组**末尾**添加元素，返回新数组：
 
-    arr.concat(item);单个
+    arr.concat(item);
     
-    arr.concat(item1,item2);两个元素
-    
-    arr.concat(arr2,arr3);两个数组
+    arr.concat(item1,item2);
+  
+    arr.concat(arr2,arr3);
     
 数组**头部**添加元素，返回新数组：
 
