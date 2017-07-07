@@ -11,7 +11,7 @@
       parseInt('1111', 2);
       parseInt('15 * 3', 10);
       parseInt('15e2', 10);
-      parseInt('15px', 10);  // parseInt(015, 10); will return 15
+      parseInt('15px', 10);  // parseInt(15px, 10); will return 15
       parseInt('12', 13);
       
  - - -
